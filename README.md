@@ -11,3 +11,9 @@ TO DECIDE WHICH ARRAY METHOD IS BEST? ASK YOURSELF "What do you want from this m
 6. To create a new string
 7. To transform a value,or is it just
 8. To loop over an array
+ To interact with the application, Here's the link : https://bandavallary.github.io/bankist/
+          use credentials:
+            js  pin:1111
+            jd  pin:2222
+            stw pin:3333
+            ss  pin:4444
