@@ -1,7 +1,7 @@
 # bankist
 This application emulates a banking app, where the account balance, total deposits, withdrawals and intrest are displayed.
 The purpose of this project was to help me familiarize with array methods.
-KEY TAKEAWAYS
+KEY TAKEAWAYS:/n
 TO DECIDE WHICH ARRAY METHOD IS BEST? ASK YOURSELF "What do you want from this method?"
 1. To mutate the original array
 2. To get a new array?
